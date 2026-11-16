@@ -8,7 +8,6 @@
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  size-adjust: 110%;
 }
 
 @font-face {
@@ -17,7 +16,6 @@
   font-weight: 400;
   font-style: italic;
   font-display: swap;
-  size-adjust: 110%;
 }
 /*
 @font-face {
@@ -34,8 +32,6 @@
   font-weight: 500;
   font-style: normal;
   font-display: swap;
-  size-adjust: 110%;
-
 }
 
 @font-face {
@@ -44,7 +40,6 @@
   font-weight: 600;
   font-style: normal;
   font-display: swap;
-  size-adjust: 110%;
 }
 
 @font-face {
@@ -197,6 +192,7 @@ html.dark {
   html {
     scroll-behavior: smooth;
     -webkit-text-size-adjust: 100%;
+    font-size: 112.5%; /* delete this if not using Calibre anymore */
   }
 
   body {
