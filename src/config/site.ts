@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'Compass',
+  name: 'Praying the Psalms',
   title: 'Compass - An Astro documentation theme',
   description:
     'Compass is a free Astro documentation theme for product docs, help centers, and knowledge bases, with fast static search and MDX components.',
