@@ -1,6 +1,6 @@
 export const home = {
   hero: {
-    eyebrow: 'Praying the Psalms',
+    eyebrow: Prayer Guides',
     title: 'Pray the Psalms, one at a time',
     description: 'A guided walk through all 150 psalms. Study each one, pray it, and find Christ in it.',
     placeholder: 'Search by psalm, theme, or feeling...',
