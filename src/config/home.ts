@@ -1,7 +1,7 @@
 export const home = {
   hero: {
     eyebrow: 'Praying the Psalms',
-    title: 'Learn to answer God in his own words',
+    title: 'Pray the Psalms, one at a time',
     description: 'A guided walk through all 150 psalms. Study each one, pray it, and find Christ in it.',
     placeholder: 'Search by psalm, theme, or feeling...',
   },
